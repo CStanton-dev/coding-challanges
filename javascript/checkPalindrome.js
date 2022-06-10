@@ -4,8 +4,8 @@
  * @example
  * // Contraints
  * // 1 <= inputString.length <= 10^5
- * // inputString = "aabaa"
- * // solution(inputString) =  true
+ * inputString = "aabaa"
+ * solution(inputString) =  true
  * 
  * @param {string} inputString 
  * @returns {boolean}

@@ -8,8 +8,8 @@
  * @example
  * // Constraints
  * // 1 <= year <= 2005
- * // year = 1905
- * // solution(year) = 20
+ * year = 1905
+ * solution(year) = 20
  * 
  * @param {number} year
  * @return {number} 
